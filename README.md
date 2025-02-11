@@ -1,3 +1,5 @@
 # Intro-to-Github
 
-This should conflict
+this was an edit made from remote
+
+
